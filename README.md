@@ -4,7 +4,7 @@ Crash Course: Introduction to SQL
 Welcome! This is an introduction SQL (particularly Microsoft SQL Server).
 
 
-Setup
+## My Setup
 
 I am using Visual Studio 2015 with SQL Server Data Tools 2016.  You can download those from the following locations:
 
